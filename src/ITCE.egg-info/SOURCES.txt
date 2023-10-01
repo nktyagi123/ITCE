@@ -1,0 +1,15 @@
+LICENSE
+README.md
+setup.py
+src/ITCE/__init__.py
+src/ITCE.egg-info/PKG-INFO
+src/ITCE.egg-info/SOURCES.txt
+src/ITCE.egg-info/dependency_links.txt
+src/ITCE.egg-info/top_level.txt
+src/ITCE/components/__init__.py
+src/ITCE/config/__init__.py
+src/ITCE/config/configuration.py
+src/ITCE/constants/__init__.py
+src/ITCE/entity/__init__.py
+src/ITCE/logging/__init__.py
+src/ITCE/pipeline/__init__.py
